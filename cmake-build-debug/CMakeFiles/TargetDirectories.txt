@@ -1,0 +1,3 @@
+/Users/drewk/CLionProjects/RSS Reader/cmake-build-debug/CMakeFiles/RSS_Reader.dir
+/Users/drewk/CLionProjects/RSS Reader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/drewk/CLionProjects/RSS Reader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
